@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this repository revision and the original datasets/papers for any reused analyses."
+title: "Morphostasis Longevity: reproducible investigations of cellular coordination and aging"
+authors:
+  - name: "Milbaxter"
+version: 0.1.0
+date-released: 2026-09-22
+url: "https://github.com/Milbaxter/morphostasis-longevity"
+repository-code: "https://github.com/Milbaxter/morphostasis-longevity"
+license: MIT
