@@ -1,0 +1,29 @@
+gene_symbol,panel,submodule,role,rationale,source
+KCNJ8,bioelectric,KATP_channel,channel,KATP pore subunit; fixed pinacidil-target module,https://doi.org/10.1016/j.isci.2025.113275;https://www.genenames.org/
+KCNJ11,bioelectric,KATP_channel,channel,KATP pore subunit; fixed pinacidil-target module,https://doi.org/10.1016/j.isci.2025.113275;https://www.genenames.org/
+ABCC8,bioelectric,KATP_channel,channel_regulator,KATP regulatory subunit; fixed pinacidil-target module,https://doi.org/10.1016/j.isci.2025.113275;https://www.genenames.org/
+ABCC9,bioelectric,KATP_channel,channel_regulator,KATP regulatory subunit; fixed pinacidil-target module,https://doi.org/10.1016/j.isci.2025.113275;https://www.genenames.org/
+ATP1A1,bioelectric,NaK_pump,ion_pump,Na/K ATPase catalytic subunit candidate,https://www.genenames.org/;https://www.uniprot.org/
+ATP1A2,bioelectric,NaK_pump,ion_pump,Na/K ATPase catalytic subunit candidate,https://www.genenames.org/;https://www.uniprot.org/
+ATP1B1,bioelectric,NaK_pump,ion_pump,Na/K ATPase subunit candidate,https://www.genenames.org/;https://www.uniprot.org/
+ATP1B3,bioelectric,NaK_pump,ion_pump,Na/K ATPase subunit candidate,https://www.genenames.org/;https://www.uniprot.org/
+ATP2B1,bioelectric,PMCA,ion_pump,Plasma-membrane Ca2+ ATPase candidate,https://www.genenames.org/;https://www.uniprot.org/
+ATP2B4,bioelectric,PMCA,ion_pump,Plasma-membrane Ca2+ ATPase candidate,https://www.genenames.org/;https://www.uniprot.org/
+SLC9A1,bioelectric,epithelial_transport,ion_transporter,Na+/H+ exchanger candidate for epithelial ion homeostasis,https://www.genenames.org/;https://www.uniprot.org/
+SLC12A2,bioelectric,epithelial_transport,ion_transporter,Na+/K+/2Cl− cotransporter candidate for epithelial ion homeostasis,https://www.genenames.org/;https://www.uniprot.org/
+GJA1,bioelectric,connexin_gap_junction,connexin,Representative connexin and gap-junction component,https://doi.org/10.1042/BJ20051822;https://www.genenames.org/
+GJB2,bioelectric,connexin_gap_junction,connexin,Representative connexin and gap-junction component,https://doi.org/10.1042/BJ20051822;https://www.genenames.org/
+GJB6,bioelectric,connexin_gap_junction,connexin,Representative connexin and gap-junction component,https://doi.org/10.1042/BJ20051822;https://www.genenames.org/
+MKI67,control,proliferation,proliferation_control,Proliferation marker,https://pubmed.ncbi.nlm.nih.gov/27246286/
+PCNA,control,proliferation,proliferation_control,DNA replication and growth-fraction marker,https://pubmed.ncbi.nlm.nih.gov/27246286/
+MCM2,control,proliferation,proliferation_control,Replication licensing/proliferative-potential marker,https://pubmed.ncbi.nlm.nih.gov/27246286/
+CDKN1A,control,senescence_stress,senescence_control,Canonical senescence-associated cell-cycle arrest marker,https://pmc.ncbi.nlm.nih.gov/articles/PMC7950289/
+CDKN2A,control,senescence_stress,senescence_control,Canonical senescence-associated cell-cycle arrest marker,https://pmc.ncbi.nlm.nih.gov/articles/PMC12496192/
+IL1A,control,senescence_stress,stress_control,SASP/inflammatory marker measured in epithelial senescence studies,https://pmc.ncbi.nlm.nih.gov/articles/PMC12496192/
+IL6,control,senescence_stress,stress_control,SASP/inflammatory marker measured in epithelial senescence studies,https://pmc.ncbi.nlm.nih.gov/articles/PMC12496192/
+CXCL8,control,senescence_stress,stress_control,SASP/inflammatory marker measured in epithelial senescence studies,https://pmc.ncbi.nlm.nih.gov/articles/PMC12496192/
+HSPA1A,control,senescence_stress,stress_control,Cellular stress-response marker,https://pmc.ncbi.nlm.nih.gov/articles/PMC7950289/
+KRT14,control,epithelial_state,epithelial_state_control,Basal keratinocyte-state control,https://www.genenames.org/
+KRT10,control,epithelial_state,epithelial_state_control,Differentiating keratinocyte-state control,https://www.genenames.org/
+DSG1,control,epithelial_state,epithelial_state_control,Epithelial differentiation/adhesion control,https://www.genenames.org/
+FLG,control,epithelial_state,epithelial_state_control,Epidermal differentiation/barrier control,https://www.genenames.org/
