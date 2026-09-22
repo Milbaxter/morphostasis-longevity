@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling==1.27.0"]
+build-backend = "hatchling.build"
+
+[project]
+name = "morphostasis-longevity"
+version = "0.1.0"
+description = "Reproducible tests of bioelectric organization and aging hypotheses"
+requires-python = ">=3.12,<3.13"
+license = "MIT"
+dependencies = [
+  "numpy==2.2.6", "pandas==2.2.3", "scipy==1.15.3",
+  "statsmodels==0.14.4", "matplotlib==3.10.3", "requests==2.32.3",
+  "PyYAML==6.0.2", "tifffile==2025.5.10", "scikit-image==0.25.2",
+  "openpyxl==3.1.5", "pytest==8.3.5"
+]
+
+[project.scripts]
+morphostasis = "morphostasis.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/morphostasis"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
